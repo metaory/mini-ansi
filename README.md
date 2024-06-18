@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>MINI ANSI</h1>
-  <img src=".github/assets/mini-ansi-icon.png" width="168px"/>
+  <img src=".github/assets/mini-ansi-icon.png" width="200px"/>
+  <h1>mın̶ı AN̶S̶I</h1>
   <h4>minimal ansi escape colors</h4>
   <h5>zero dependencies</h5>
 </div>
